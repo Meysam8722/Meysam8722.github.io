@@ -1,0 +1,14 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+@font-face {
+  font-family: NunitoSans;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('NunitoSans') url('/fonts/NunitoSans-Regular.ttf') format("truetype");
+  /* IE6-8 */
+  /* FF39+,Chrome36+, Opera24+*/
+  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
